@@ -12,7 +12,7 @@ This script was made by myself without the intervention of others.!
 ![alt text](https://img.shields.io/badge/Coded-penucuriCode-blue.svg)
 ![alt text](https://img.shields.io/badge/Size-143.00KB-yellow.svg)
 ![alt text](https://img.shields.io/badge/Python-3-green.svg)<br>
-![shot](https://github.com/penucuriCode/findlogin/blob/main/img/result.PNG)
+![shot](https://github.com/pencuricode/findlogin/blob/main/img/result.PNG)
 
 
 # Find Login feature
