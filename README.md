@@ -7,7 +7,10 @@ This attack will usually work on websites that have the kcfinder extension.
 
 This script was made by myself without the intervention of others.!
 ```
-<center><img src="https://discord.c99.nl/widget/theme-2/447411230098063362.png">
+<p align="center"><br>
+  <a href="https://github.com/penucuriCode">
+    <img src="https://lanyard-profile-readme.vercel.app/api/447411230098063362"/>
+     </a>
 
 ![alt text](https://img.shields.io/badge/Coded-penucuriCode-blue.svg)
 ![alt text](https://img.shields.io/badge/Size-143.00KB-yellow.svg)
